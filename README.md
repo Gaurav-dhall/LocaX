@@ -31,7 +31,16 @@ This is a **personal frontend project**.
 - **Leaflet.js** for map rendering and interaction handling
 
 ## 📸 Screenshots
-(Add screenshots of the map view and side panel here)
+![Welcome Screen](screenshots/welcome.png)
+![Searching Location](screenshots/searchingTheLocation.png)
+![Searching Dark Theme](screenshots/searchingInDarkTheme.png)
+![Info On Click](screenshots/infoByClicking1.png)
+![Info Detail](screenshots/infoDetailed.png)
+![Locax Mobile](screenshots/locaxMobile.png)
+![Locax Mobile 2](screenshots/locaxMobile2.png)
+
+
+
 
 ## ⚙️ Installation & Setup
 ```bash
