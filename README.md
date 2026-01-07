@@ -50,7 +50,7 @@ npm install
 npm run dev 
 ```
 
-##📚 Learnings
+## 📚 Learnings
 
 - Working with map-based libraries like Leaflet.js
 
@@ -62,7 +62,7 @@ npm run dev
 
 - Improving UX through side-panel based information display
 
-##📌 Project Status
+## 📌 Project Status
 
 - ✅ Completed
 - ✅ Deployed
