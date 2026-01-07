@@ -1,66 +1,60 @@
-# 🌍 LocaX : Location Finder Web App
+# LocaX 🗺️
 
-A simple and interactive web application that helps users search locations, view them on a map, and display additional details in a side panel.
+LocaX is an interactive location exploration web application that allows users to search places, visualize them on a map, and view detailed information through an intuitive side panel.  
+It provides a smooth and responsive map-based experience using modern frontend technologies.
 
-## 🚀 Features
-- 📍 Search locations and display them on the map
-- 🗺️ Click on the map to fetch location details
-- 🏠 Side panel to display information
-- 🎯 Dynamic UI updates based on user interactions
-- 🌐 Fully responsive and hosted on Vercel
+## 🚀 Live Demo
+🔗 https://locax.vercel.app/
 
-## 🛠️ Technologies Used
-- ⚛️ React.js
-- 🌍 Leaflet.js (for interactive maps)
-- 🎨 Tailwind CSS (for styling)
-- ⚡ Vite (for fast development)
-- 🚀 Vercel (for deployment)
+## 🛠 Tech Stack
+- React.js
+- Tailwind CSS
+- Leaflet.js
 
-## 📦 Installation
+## 👤 My Role
+This is a **personal frontend project**.
+- Built the complete UI using React and Tailwind CSS
+- Integrated Leaflet.js for interactive map rendering
+- Implemented location search and click-based interactions
+- Designed a dynamic side panel for displaying location information
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/location-finder.git
-   cd location-finder
-   ```
+## ✨ Features
+- Search locations and display them on an interactive map
+- Click on the map to fetch and visualize location details
+- Side panel to display location-specific information
+- Boundary highlighting for searched states or countries
+- Dynamic UI updates based on user interactions
+- Fully responsive design
+- Deployed on Vercel
 
-2.Install dependencies:
-   ```sh
-    npm install
-   ```
+## 🗺️ Libraries Used
+- **Leaflet.js** for map rendering and interaction handling
 
+## 📸 Screenshots
+(Add screenshots of the map view and side panel here)
 
-3.Start the development server:
-    ```
-    npm run dev
-    ```
+## ⚙️ Installation & Setup
+```bash
+git clone https://github.com/Gaurav-dhall/LocaX.git
+cd LocaX
+npm install
+npm run dev 
+```
 
-## 🔥 Deployment on Vercel
+##📚 Learnings
 
-Install Vercel CLI:
-    ```
-    npm install -g vercel
-    ```
+- Working with map-based libraries like Leaflet.js
 
-Deploy the project:
-     ```
-    vercel
-    ```
+- Handling user interactions on maps (clicks, markers, boundaries)
 
-## 🛠️ How to Use
-Enter a location in the search bar.
-Click on any suggested location to display details.
-Click anywhere on the map to fetch location data.
-Close the side panel to interact with the map again.
+- Managing dynamic UI updates in React
 
-##🤝 Contributing
-Feel free to fork this repository, create a new branch, and submit a pull request.
+- Designing clean and responsive layouts using Tailwind CSS
 
-##📄 License
-This project is licensed under the MIT License.
+- Improving UX through side-panel based information display
 
-##📞 Contact
-✉️ Email: gauravdhall35@gmail.com
-🔗 GitHub: Gaurav-dhall
-🌍 Live Site: [visit here](http://locax.vercel.app)
+##📌 Project Status
+
+- ✅ Completed
+- ✅ Deployed
 
